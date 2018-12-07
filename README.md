@@ -1,4 +1,4 @@
-https://travis-ci.org/himynameisdave/git-labelmaker.svg?branch=master
+## :flags: git-labelmaker [![travis-build-badge](https://api.travis-ci.org/himynameisdave/git-labelmaker.svg?branch=master)](https://travis-ci.org/himynameisdave/git-labelmaker)
 
 # PLC I/O s
 
