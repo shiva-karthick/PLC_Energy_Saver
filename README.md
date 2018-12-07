@@ -1,6 +1,10 @@
-## :flags: Smart Energy Saver Home Automation implemented in a Panasonic Programmable Logic Controller 
+## :flags: Smart Energy Saver Home Automation implemented in a Panasonic Programmable Logic Controller  
+![AppVeyor](https://img.shields.io/badge/build-passing-brightgreen.svg) 
+![GitHub tag (latest SemVer)](https://img.shields.io/badge/tag-v1.1-brightgreen.svg)
+![Conda](https://img.shields.io/badge/PLC-Windows%20Linux%20MacOS%20-brightgreen.svg)
 
-[![travis-build-badge](https://api.travis-ci.org/himynameisdave/git-labelmaker.svg?branch=master)](https://travis-ci.org/himynameisdave/git-labelmaker) 
+
+
 
 # PLC I/O s
 
