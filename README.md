@@ -1,5 +1,6 @@
-## :flags: Smart Energy Saver Home Automation implemented in a Panasonic Programmable Logic Controller [![travis-build-badge](https://api.travis-ci.org/himynameisdave/git-labelmaker.svg?branch=master)]
-(https://travis-ci.org/himynameisdave/git-labelmaker) 
+## :flags: Smart Energy Saver Home Automation implemented in a Panasonic Programmable Logic Controller 
+
+[![travis-build-badge](https://api.travis-ci.org/himynameisdave/git-labelmaker.svg?branch=master)](https://travis-ci.org/himynameisdave/git-labelmaker) 
 
 # PLC I/O s
 
