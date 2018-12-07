@@ -1,3 +1,5 @@
+https://travis-ci.org/himynameisdave/git-labelmaker.svg?branch=master
+
 # PLC I/O s
 
 ## Hardware Table
